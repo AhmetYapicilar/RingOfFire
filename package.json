@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:RingOfFire": "node dist/ring-of-fire/server/server.mjs"
+    "serve:ssr:ringoffire": "node dist/ring-of-fire/server/server.mjs"
   },
   "private": true,
   "dependencies": {
